@@ -1,1 +1,1 @@
-# ArduinoSpectrumanalyzer
+# ArduinoSpectrumAnalyzer
